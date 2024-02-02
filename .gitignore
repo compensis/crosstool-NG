@@ -24,3 +24,8 @@ build.log
 targets/
 # .. and log for 'build-all'
 .build-all
+
+.built
+.config.org
+lib/
+share/doc/crosstool-ng/
